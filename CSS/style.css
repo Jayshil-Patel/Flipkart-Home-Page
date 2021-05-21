@@ -44,7 +44,7 @@ nav ul li a:hover {
   align-items: center;
 }
 .search input {
-  width: 493px;
+  width: 30vw;
   height: 27px;
   border-radius: 5px;
   margin: 0 16px 0 56px;
@@ -57,11 +57,12 @@ nav ul li a:hover {
 .slider{
   margin:auto;
   width: 80vw;
-  margin: 12px auto;
+  margin: 30px auto;
+  overflow: hidden;
 }
 .card{
   max-width: 91vw;
-  margin:auto;
+  margin: 37px auto;
   font-family: 'Ubuntu', sans-serif;
 }
 .cards{
