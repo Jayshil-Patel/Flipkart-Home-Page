@@ -1,5 +1,5 @@
 # Flipkart Home Page
-> I made this [homepage]() using HTML and CSS, goal of making this project is to practice flexbox and media queries of CSS. The images in this homepage are used via [unsplashed](https://source.unsplash.com/) API and are refreshed everytime we load the webpage, API were added to get some dynamic images in our webpage
+> I made this [homepage](https://github.com/Jayshil-Patel/Flipkart-Home-Page/blob/master/index.html) using HTML and CSS, goal of making this project is to practice flexbox and media queries of CSS. The images in this homepage are used via [unsplashed](https://source.unsplash.com/) API and are refreshed everytime we load the webpage, API were added to get some dynamic images in our webpage
 
 ## Contact Info
 
