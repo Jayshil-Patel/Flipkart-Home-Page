@@ -83,7 +83,7 @@ nav ul li a:hover {
   min-height: calc(100vh - 58px - 12vh);
 }
 footer {
-  height: 12vh;
+  height: 10vh;
   background-color: var(--main-bg-color);
   color: white;
   font-family: "Lato", sans-serif;
